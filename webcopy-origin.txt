@@ -1,0 +1,260 @@
+Uri: https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\viva-leads.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRckg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatdisplay/v19/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg.ttf
+File Name: C:\Downloaded Web Sites\viva-leads.com\s\redhatdisplay\v19\8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRckg.ttf
+Content Type: font/ttf
+
+Uri: https://viva-leads.com/
+File Name: C:\Downloaded Web Sites\viva-leads.com\index.htm
+Content Type: text/html
+
+Uri: https://viva-leads.com/authorized-companies.html
+File Name: C:\Downloaded Web Sites\viva-leads.com\authorized-companies.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/bathroom.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\bathroom.aspx.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/css/animate.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\animate.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/bootstrap-grid.min.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/bootstrap-reboot.min.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/coloring.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\coloring.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/colors/scheme-03.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\colors\scheme-03.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/jpreloader.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\jpreloader.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/jquery.countdown.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\jquery.countdown.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/owl.theme.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/owl.transitions.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\owl.transitions.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/css/style.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\css\style.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/fonts/elegant_font/fonts/ElegantIcons.woff
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\elegant_font\fonts\ElegantIcons.woff
+Content Type: font/x-woff
+
+Uri: https://viva-leads.com/fonts/elegant_font/style.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\elegant_font\style.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/fonts/et-line-font/style.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\et-line-font\style.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/fonts/font-awesome/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/x-woff2
+
+Uri: https://viva-leads.com/fonts/icofont/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\icofont\fonts\icofont.woff2
+Content Type: font/x-woff2
+
+Uri: https://viva-leads.com/fonts/icofont/icofont.min.css
+File Name: C:\Downloaded Web Sites\viva-leads.com\fonts\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://viva-leads.com/images/favicon.ico
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://viva-leads.com/images/logo-green.png
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\logo-green.png
+Content Type: image/png
+
+Uri: https://viva-leads.com/images/misc/bathroom.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\bathroom.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/misc/kitchen.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\kitchen.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/misc/mva.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\mva.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/misc/roofing-image.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\roofing-image.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/misc/solar-panel.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\solar-panel.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/misc/window-image.jpg
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\misc\window-image.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-leads.com/images/ui/arrow-down.png
+File Name: C:\Downloaded Web Sites\viva-leads.com\images\ui\arrow-down.png
+Content Type: image/png
+
+Uri: https://viva-leads.com/index.html
+File Name: C:\Downloaded Web Sites\viva-leads.com\index.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/designesia.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\designesia.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/easing.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\easing.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/enquire.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\enquire.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jpreLoader.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jpreLoader.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.countdown.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.isotope.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.plugin.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.plugin.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/typed.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\typed.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/validation.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\validation.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\viva-leads.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://viva-leads.com/kitchen.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\kitchen.aspx.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/mva.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\mva.aspx.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/privacy-policy.html
+File Name: C:\Downloaded Web Sites\viva-leads.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/roofing.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\roofing.aspx.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/solar.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\solar.aspx.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/terms.html
+File Name: C:\Downloaded Web Sites\viva-leads.com\terms.html
+Content Type: text/html
+
+Uri: https://viva-leads.com/windows.aspx
+File Name: C:\Downloaded Web Sites\viva-leads.com\windows.aspx.html
+Content Type: text/html
+
